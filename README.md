@@ -1,4 +1,4 @@
-# rallyProject
+# Basics in C Programming Project
 
 ## Description
 
